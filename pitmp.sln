@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pitmp", "pitmp\pitmp.csproj", "{785AF149-90AE-4435-AECD-19F9A0CEFF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "library\library.csproj", "{DC2FEAFA-7BDB-4305-AE40-69C10E94D937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785AF149-90AE-4435-AECD-19F9A0CEFF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785AF149-90AE-4435-AECD-19F9A0CEFF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785AF149-90AE-4435-AECD-19F9A0CEFF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785AF149-90AE-4435-AECD-19F9A0CEFF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2FEAFA-7BDB-4305-AE40-69C10E94D937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2FEAFA-7BDB-4305-AE40-69C10E94D937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2FEAFA-7BDB-4305-AE40-69C10E94D937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2FEAFA-7BDB-4305-AE40-69C10E94D937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C8E289-BF00-4BD5-98D1-0E0B9F421552}
+	EndGlobalSection
+EndGlobal
